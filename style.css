@@ -96,7 +96,7 @@ a:hover {
    align-items: center;
    background-image: 
         linear-gradient(to bottom, rgba(255, 255, 255, 0) 60%, rgba(255, 255, 255, 1) 100%), 
-        url('../images/background.png');
+        url('background.png');
         backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
     }
